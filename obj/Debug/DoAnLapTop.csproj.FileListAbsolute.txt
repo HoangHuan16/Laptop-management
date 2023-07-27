@@ -1,0 +1,17 @@
+C:\Users\84344\TrungHieu\code\c#\DoAnC#\DoAnLapTop\DoAnLapTop\bin\Debug\DoAnLapTop.exe.config
+C:\Users\84344\TrungHieu\code\c#\DoAnC#\DoAnLapTop\DoAnLapTop\bin\Debug\DoAnLapTop.exe
+C:\Users\84344\TrungHieu\code\c#\DoAnC#\DoAnLapTop\DoAnLapTop\bin\Debug\DoAnLapTop.pdb
+C:\Users\84344\TrungHieu\code\c#\DoAnC#\DoAnLapTop\DoAnLapTop\obj\Debug\DoAnLapTop.csproj.AssemblyReference.cache
+C:\Users\84344\TrungHieu\code\c#\DoAnC#\DoAnLapTop\DoAnLapTop\obj\Debug\DoAnLapTop.csproj.SuggestedBindingRedirects.cache
+C:\Users\84344\TrungHieu\code\c#\DoAnC#\DoAnLapTop\DoAnLapTop\obj\Debug\DoAnLapTop.Properties.Resources.resources
+C:\Users\84344\TrungHieu\code\c#\DoAnC#\DoAnLapTop\DoAnLapTop\obj\Debug\DoAnLapTop.csproj.GenerateResource.cache
+C:\Users\84344\TrungHieu\code\c#\DoAnC#\DoAnLapTop\DoAnLapTop\obj\Debug\DoAnLapTop.csproj.CoreCompileInputs.cache
+C:\Users\84344\TrungHieu\code\c#\DoAnC#\DoAnLapTop\DoAnLapTop\obj\Debug\DoAnLapTop.exe
+C:\Users\84344\TrungHieu\code\c#\DoAnC#\DoAnLapTop\DoAnLapTop\obj\Debug\DoAnLapTop.pdb
+C:\Users\84344\TrungHieu\code\c#\DoAnC#\DoAnLapTop\DoAnLapTop\obj\Debug\DoAnLapTop.gui.KhachHangForm.resources
+C:\Users\84344\TrungHieu\code\c#\DoAnC#\DoAnLapTop\DoAnLapTop\obj\Debug\DoAnLapTop.gui.LapTopForm.resources
+C:\Users\84344\TrungHieu\code\c#\DoAnC#\DoAnLapTop\DoAnLapTop\obj\Debug\DoAnLapTop.gui.PhieuMuaForm.resources
+C:\Users\84344\TrungHieu\code\c#\DoAnC#\DoAnLapTop\DoAnLapTop\obj\Debug\DoAnLapTop.gui.NhaCungCapForm.resources
+C:\Users\84344\TrungHieu\code\c#\DoAnC#\DoAnLapTop\DoAnLapTop\obj\Debug\DoAnLapTop.gui.MenuForm.resources
+C:\Users\84344\TrungHieu\code\c#\DoAnC#\DoAnLapTop\DoAnLapTop\obj\Debug\DoAnLapTop.gui.LocHoaDonForm.resources
+C:\Users\84344\TrungHieu\code\c#\DoAnC#\DoAnLapTop\DoAnLapTop\obj\Debug\DoAnLapTop.gui.XemHoaDonForm.resources
